@@ -21,7 +21,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['2349118400159'] //ur owner number
+global.owner = ['13349661029'] //ur owner number
 global.ownernomer = "2347036214381" //ur owner number2
 global.ownername = "EDNUT BOT MD" //ur owner name
 global.ytname = "EDNUT: MD" //ur yt chanel name
@@ -29,10 +29,10 @@ global.socialm = "GitHub: ednutbotmd" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = "BARON EDNUT"
+global.botname = "Ednut Bot Md"
 global.ownernumber = '2349118400159'
-global.ownername = 'EDNUT BOT MD'
-global.ownerNumber = ["2349118400159@s.whatsapp.net"]
+global.ownername = '𝕭𝖆𝖗𝖔𝖓 𝖊𝖉𝖓𝖚𝖙'
+global.ownerNumber = ["13349661029@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
 global.wagc = "https://chat.whatsapp.com/EyTtNq4C2lsIPspAn44PRj"
@@ -41,7 +41,7 @@ global.wm = "BARON EDNUT."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
 global.packname = "Sticker By"
 global.author = "Ednut md 🔥\n\n"
-global.creator = "2349118400159@s.whatsapp.net"
+global.creator = "13349661029@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
